@@ -1,3 +1,4 @@
+
 ### CUDA ###
 
 *.i
@@ -8,6 +9,8 @@
 *.fatbin
 
 ### Data ###
+
+data/
 
 *.csv
 *.dat
